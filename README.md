@@ -13,6 +13,6 @@ This project was created as a part of my web development learning journey to:
 # 🛠️ Tech Stack
 
 - HTML
-- CSS3
+- CSS
 - JavaScript
 - Font Awesome
